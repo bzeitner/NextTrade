@@ -41,7 +41,7 @@
     "@babel/preset-typescript": "^7.12.7",
     "@microsoft/tsdoc": "^0.13.2",
     "@types/bcryptjs": "^2.4.2",
-    "@types/validator": "^13.1.2",
+    "@types/validator": "^13.12.1",
     "app-root-path": "^3.0.0",
     "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
