@@ -55,7 +55,7 @@
     "helmet": "^4.6.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
-    "mongoose": "^5.11.8",
+    "mongoose": "^6.13.6",
     "morgan": "^1.10.0",
     "node-cache": "^5.1.2",
     "node-cleanup": "^2.1.2",
